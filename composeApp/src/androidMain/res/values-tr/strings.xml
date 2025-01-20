@@ -866,8 +866,8 @@
     <string name="appearancepresetssecondary">Önizlemeler düşük kalitede olacaktır</string>
     <string name="yt_history">YTM Geçmişi</string>
     <string name="albumCoverRotation">Arkaplan Döndürme Animasyonu</string>
-    <string name="enable_connection_metered">Use metered connection to save data</string>
-    <string name="info_enable_connection_metered">Data saving decreases quality, use only if you have a connection with limited data</string>
-    <string name="use_ytm_login_only_for_browse">Use YTM login only for browse</string>
-    <string name="info_use_ytm_login_only_for_browse">To be used if the songs are not played when logged in</string>
+    <string name="enable_connection_metered">Veri tasarrufu için kotalı bağlantı kullanın</string>
+    <string name="info_enable_connection_metered">Veri tasarrufu kaliteyi düşürür, yalnızca kotalı bir bağlantınız varsa kullanın</string>
+    <string name="use_ytm_login_only_for_browse">YTM girişini yalnızca göz atmak için kullanın</string>
+    <string name="info_use_ytm_login_only_for_browse">Giriş yapıldığında şarkılar çalınmıyorsa kullanılacak</string>
 </resources>

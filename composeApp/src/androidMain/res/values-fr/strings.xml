@@ -16,7 +16,7 @@
     <string name="hide_from_quick_picks">Cacher de la \"Sélection Rapide\"</string>
     <string name="related_albums">Albums Associés</string>
     <string name="similar_artists">Artistes Similaires</string>
-    <string name="playlists_you_might_like">Listes de lecture que vous pourriez aimer</string>
+    <string name="playlists_you_might_like">Playlists que vous pourriez aimer</string>
     <string name="an_error_has_occurred">Une erreur est survenue</string>
     <string name="albums">Albums</string>
     <string name="artists">Artistes</string>
@@ -868,8 +868,8 @@
     <string name="appearancepresetssecondary">Les aperçus seront de faible qualité</string>
     <string name="yt_history">Historique de YouTube Music</string>
     <string name="albumCoverRotation">Animation de rotation d\'arrière-plan</string>
-    <string name="enable_connection_metered">Use metered connection to save data</string>
-    <string name="info_enable_connection_metered">Data saving decreases quality, use only if you have a connection with limited data</string>
-    <string name="use_ytm_login_only_for_browse">Use YTM login only for browse</string>
-    <string name="info_use_ytm_login_only_for_browse">To be used if the songs are not played when logged in</string>
+    <string name="enable_connection_metered">Utiliser une connexion limitée pour économiser des données</string>
+    <string name="info_enable_connection_metered">L\'enregistrement des données diminue la qualité. Utilisez-le uniquement si vous avez une connexion avec des données limitées.</string>
+    <string name="use_ytm_login_only_for_browse">Utilisez la connexion YouTube Music uniquement pour naviguer</string>
+    <string name="info_use_ytm_login_only_for_browse">À utiliser si les titres ne sont pas joués lors de la connexion</string>
 </resources>

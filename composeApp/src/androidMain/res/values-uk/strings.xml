@@ -866,8 +866,8 @@
     <string name="appearancepresetssecondary">Попередній перегляд буде в низькій якості</string>
     <string name="yt_history">Історія YTM</string>
     <string name="albumCoverRotation">Анімація повороту фону</string>
-    <string name="enable_connection_metered">Use metered connection to save data</string>
-    <string name="info_enable_connection_metered">Data saving decreases quality, use only if you have a connection with limited data</string>
-    <string name="use_ytm_login_only_for_browse">Use YTM login only for browse</string>
-    <string name="info_use_ytm_login_only_for_browse">To be used if the songs are not played when logged in</string>
+    <string name="enable_connection_metered">Використовувати лімітоване підключення для економії даних</string>
+    <string name="info_enable_connection_metered">Економія даних знижує якість, використовуйте лише якщо у вас є з\'єднання з обмеженим обсягом даних</string>
+    <string name="use_ytm_login_only_for_browse">Використовувати YTM вхід тільки для перегляду</string>
+    <string name="info_use_ytm_login_only_for_browse">Використовувати, якщо пісні не відтворюються під час входу в систему</string>
 </resources>

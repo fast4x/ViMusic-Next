@@ -63,13 +63,13 @@
     <string name="theme">Tema</string>
     <string name="theme_mode">Modo de tema</string>
     <string name="thumbnail_roundness">Redondez de la miniatura</string>
-    <string name="use_system_font">Usar fuente del sistema</string>
+    <string name="use_system_font">Utilizar fuente del sistema</string>
     <string name="use_font_by_the_system">Utiliza la fuente aplicada por el sistema</string>
     <string name="apply_font_padding">Aplicar relleno a la fuente</string>
     <string name="add_spacing_around_texts">Añadir espaciado en los textos</string>
     <string name="lockscreen">BLOQUEO DE PANTALLA</string>
     <string name="show_song_cover">Mostrar portada de la canción</string>
-    <string name="use_song_cover_on_lockscreen">Usa la portada de la canción que se está reproduciendo como fondo de la pantalla de bloqueo</string>
+    <string name="use_song_cover_on_lockscreen">Utiliza la portada de la canción que se está reproduciendo como fondo de la pantalla de bloqueo</string>
     <string name="cache">Caché</string>
     <string name="cache_cleared">Cuando la caché se queda sin espacio, los recursos a los que no se ha accedido durante más tiempo se borran</string>
     <string name="image_cache">CACHÉ DE IMÁGENES</string>
@@ -352,7 +352,7 @@
     <string name="sort_year">Año</string>
     <string name="sort_name">Nombre</string>
     <string name="sort_songs_number">Número de canciones</string>
-    <string name="sort_relative_listening_time">Tiempo de escucha relativo</string>
+    <string name="sort_relative_listening_time">Tiempo de reproducción relativo</string>
     <string name="follow">Seguir</string>
     <string name="following">Siguiendo</string>
     <string name="artist_subscribers">%s suscriptores</string>
@@ -360,7 +360,7 @@
     <string name="sleeptimer_stop">detener</string>
     <string name="player_keep_minimized">Mantener minimizado</string>
     <string name="when_click_on_a_song_player_start_minimized">Cuando pulses en una canción, el reproductor comienza minimizado</string>
-    <string name="settings_use_font_type">Usar tipo de fuente</string>
+    <string name="settings_use_font_type">Utilizar tipo de fuente</string>
     <string name="enabled">Habilitado</string>
     <string name="ask">Preguntar</string>
     <string name="item_select">Seleccionar</string>
@@ -405,7 +405,7 @@
     <string name="only_icon">Solo icono</string>
     <string name="action_bar_show_menu_button">Mostrar botón de menú</string>
     <string name="sort_album">Álbum</string>
-    <string name="use_gradient_background">Usar fondo degradado</string>
+    <string name="use_gradient_background">Utilizar fondo degradado</string>
     <string name="show_total_time_of_queue">Mostrar duración total de la cola</string>
     <string name="lang_telugu">Télugu</string>
     <string name="media_permission_required_please_grant">Es necesario el permiso de multimedia, debes concederlo.</string>
@@ -866,8 +866,8 @@
     <string name="appearancepresetssecondary">Las vistas previas serán de baja calidad</string>
     <string name="yt_history">Historial de YTM</string>
     <string name="albumCoverRotation">Animación de rotación de fondo</string>
-    <string name="enable_connection_metered">Use metered connection to save data</string>
-    <string name="info_enable_connection_metered">Data saving decreases quality, use only if you have a connection with limited data</string>
-    <string name="use_ytm_login_only_for_browse">Use YTM login only for browse</string>
-    <string name="info_use_ytm_login_only_for_browse">To be used if the songs are not played when logged in</string>
+    <string name="enable_connection_metered">Utilizar conexión medida para ahorrar datos</string>
+    <string name="info_enable_connection_metered">El ahorro de datos disminuye la calidad, utilízalo solo si tienes una conexión con datos limitados</string>
+    <string name="use_ytm_login_only_for_browse">Utilizar inicio de sesión de YTM solo para navegar</string>
+    <string name="info_use_ytm_login_only_for_browse">Se utiliza si las canciones no se reproducen al iniciar sesión</string>
 </resources>

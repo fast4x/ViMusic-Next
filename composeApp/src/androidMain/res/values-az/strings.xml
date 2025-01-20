@@ -866,8 +866,8 @@
     <string name="appearancepresetssecondary">Önizləmələr aşağı keyfiyyətdə olacaq</string>
     <string name="yt_history">YTM Tarixçəsi</string>
     <string name="albumCoverRotation">Arxa Plan Dönmə Animasiyası</string>
-    <string name="enable_connection_metered">Use metered connection to save data</string>
-    <string name="info_enable_connection_metered">Data saving decreases quality, use only if you have a connection with limited data</string>
-    <string name="use_ytm_login_only_for_browse">Use YTM login only for browse</string>
-    <string name="info_use_ytm_login_only_for_browse">To be used if the songs are not played when logged in</string>
+    <string name="enable_connection_metered">Məlumat qənaəti üçün ölçülən bağlantı işlət</string>
+    <string name="info_enable_connection_metered">Məlumat qənaəti keyfiyyəti azaldır, yalnız məhdud data ilə bağlantı varsa istifadə et</string>
+    <string name="use_ytm_login_only_for_browse">Yalnız tədqiqat üçün YTM girişi istifadə et</string>
+    <string name="info_use_ytm_login_only_for_browse">Daxil olarkən mahnılar səsləndirilmirsə istifadə olunacaq</string>
 </resources>
